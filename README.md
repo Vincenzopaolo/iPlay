@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="logo.png" align="right" />
 
 # iPlay
 > Una piattaforma per l'organizzazione di eventi sportivi
